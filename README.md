@@ -54,5 +54,4 @@ It will run over the 3001 port
 
 In the root folder, run `docker-compose build && docker-compose up`
 
-- https://hub.docker.com/repository/docker/erengul/se2022-11-hiketracker#� �H�i�k�e�T�r�a�c�k�e�r�
-�
+- https://hub.docker.com/repository/docker/erengul/se2022-11-hiketracker
